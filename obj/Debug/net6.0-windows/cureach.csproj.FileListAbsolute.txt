@@ -1,0 +1,17 @@
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\bin\Debug\net6.0-windows\cureach.exe
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\bin\Debug\net6.0-windows\cureach.deps.json
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\bin\Debug\net6.0-windows\cureach.runtimeconfig.json
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\bin\Debug\net6.0-windows\cureach.dll
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\bin\Debug\net6.0-windows\cureach.pdb
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.csproj.AssemblyReference.cache
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.csproj.GenerateResource.cache
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.AssemblyInfoInputs.cache
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.AssemblyInfo.cs
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.csproj.CoreCompileInputs.cache
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.dll
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\refint\cureach.dll
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.pdb
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.genruntimeconfig.cache
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\ref\cureach.dll
+C:\Users\1657434\Desktop\Ucheba\6 сем\геоммод\curseach\cureach\obj\Debug\net6.0-windows\cureach.MainCode.resources
